@@ -1,5 +1,13 @@
 Git init: inicia un nuevo repositorio de Git.
 
+git config --global user.email <email>: Configuración de dirección de correo electrónico para cada repositorio.
+
+git config user.email <email>: Configuración de dirección de correo electrónico para un repositorio único.
+
+git config --global user.name <name>: Configuración de nombre de usuario para cada repositorio.
+
+git confit user.name <nombre>: Configuración de nombre de usuario para un repositorio único.
+
 git clone <url repositorio>: Crea una copia local de un repositorio remoto existente.
 
 git add <nombre archivo>: Agrega un archivo o cambios específicos al área de preparación.
