@@ -1,0 +1,35 @@
+Git init: inicia un nuevo repositorio de Git.
+
+git clone <url repositorio>: Crea una copia local de un repositorio remoto existente.
+
+git add <nombre archivo>: Agrega un archivo o cambios específicos al área de preparación.
+
+git commit -m "<mensaje>": Guarda los cambios en el repositorio con un mensaje descriptivo.
+
+git status: Muestra el estado actual del repositorio, incluyendo los archivos modificados y los que están en el área de preparación.
+
+git diff: Muestra las diferencias entre los cambios en el directorio de trabajo y el área de preparación.
+
+git branch: Muestra una lista de ramas en el repositorio. La rama actual está resaltada.
+
+git checkout <rama>: Cambia a la rama especificada.
+
+git merge <rama>: Fusiona una rama específica en la rama actual.
+
+git pull: Obtiene los cambios más recientes del repositorio remoto y los fusiona con la rama actual.
+
+git push: Envía los cambios locales al repositorio remoto.
+
+git log: Muestra el historial de confirmaciones del repositorio.
+
+git remote: Muestra los repositorios remotos configurados actualmente.
+
+git remote add <nombre> <url repositorio> = git remote add origin <URl repositorio>: Agrega un nuevo repositorio remoto.
+
+git remote remove <nombre repositorio>: Elimina un repositorio remoto.
+
+git stash: Guarda temporalmente los cambios sin confirmar y los oculta para trabajar en otra tarea.
+
+git reset <archivo>: Deshace los cambios en un archivo específico y los saca del área de preparación.
+
+git revert <confirmación>: Deshace una confirmación específica creando una nueva confirmación con los cambios revertidos.
