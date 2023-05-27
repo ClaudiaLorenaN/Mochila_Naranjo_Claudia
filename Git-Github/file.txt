@@ -1,3 +1,5 @@
+<-- Claudia Lorena Naranjo Jaramillo-->
+
 Git init: inicia un nuevo repositorio de Git.
 
 git config --global user.email <email>: Configuración de dirección de correo electrónico para cada repositorio.
