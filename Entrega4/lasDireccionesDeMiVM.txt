@@ -1,0 +1,9 @@
+
+MAC
+HWaddr 08:00:27:57:ac:f1
+
+IPs
+inet addr:10.0.2.15
+inet addr:127.0.0.1
+
+las direcciones son diferentes.
